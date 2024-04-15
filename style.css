@@ -262,7 +262,7 @@ body {
 }
 .links h2 {
 	position: relative;
-	color: #90DC89;
+	color: #89dca5;
 	text-shadow: 0 0 5px #c7eeff;
 	font-size: 22.5px;
 	margin-bottom: 8px;
@@ -270,7 +270,7 @@ body {
 }
 .links a {
 	position: relative;
-	color: #90DC89;
+	color: #89dca5;
 	text-shadow: 0 0 2.5px #c7eeff;
 	font-size: 15px;
 	text-decoration: none;
@@ -304,7 +304,7 @@ body {
 	box-shadow: 0 0 8.2px #c2f5d1;
 	position: fixed;
 	right: 5px;
-	top: 95px;
+	top: 200px;
 }
 footer img:hover {
 	box-shadow: 0 0 5px #37ba53;
@@ -365,8 +365,17 @@ nav {
   color: #8EB4FE;
 	text-shadow: 0 0 7px #A2FFC7;
   transition: 0.3s;
+  border: 5px double white;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  box-shadow: 0 0 5px 0 #8EB4FE;
+  border-radius: 10px;
 }
 .nav-link:hover {
   color: white;
 	text-shadow: 0 0 7px #8EB4FE;
+  background-color: #96CCFE;
+  box-shadow: 0 0 5px 0 #A2FFC7;
+  border: 5px double #A2FFC7;
 }
