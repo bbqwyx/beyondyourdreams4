@@ -323,7 +323,6 @@ footer {
 	padding-top: 25px;
 	padding-left: 20px;
 	padding-bottom: 22.5px;
-  height: 185px;
 }
 footer p {
 	color: white;
@@ -347,8 +346,8 @@ footer p {
   text-align: center;
 	position: relative;
 	font-size: 36px;
-  bottom: 102.5px;
-	left: 205px;
+	bottom: 102.5px;
+	left: 235px;
   color: white;
   opacity: 37%;
 }
